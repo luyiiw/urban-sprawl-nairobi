@@ -8,5 +8,6 @@ In this project, we apply supervised classification models (Random Forest, SVM, 
 
 Our goal is to support data-driven planning efforts focused on public health, infrastructure, and environmental management.
 
-**Data sources**: Landsat-7, Landsat-8, and Nairobi Land Use Map
+**Data sources**: Landsat-5, Landsat-7, Landsat-8, and Nairobi Land Use Map
+
 **Classes**: Informal settlements, formal settlements, vegetation
