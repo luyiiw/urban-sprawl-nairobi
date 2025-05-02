@@ -1,7 +1,7 @@
-# urban-sprawl-nairobi
+# Exploring Urban Sprawl in Nairobi, Kenya
 This project uses machine learning and satellite imagery to map and analyze urban sprawl in Nairobi, Kenya. As one of East Africa's fastest-growing cities, Nairobi faces challenges from rapid and unregulated expansion, especially in informal settlements like Kibera and Korogocho.
 
-In this project, we apply supervised classification models (Random Forest, SVM, kNN) to Landsat imagery and land use maps to:
+In this project, we apply a supervised classification model (Random Forest) to Landsat imagery and land use maps to:
 - Detect and quantify urban growth
 - Differentiate between formal and informal settlements
 - Track spatial development trends over time
